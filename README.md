@@ -1,4 +1,4 @@
-# DAS Ambient Noise Processing and EGF Enhancement
+# GPU-Accelerated DAS Ambient Noise Processing and EGF Enhancement
 
 This repository provides an end-to-end GPU-accelerated workflow for processing distributed acoustic sensing (DAS) ambient noise data, with enhancements for empirical Green’s function (EGF) extraction and cross-correlation stacking.
 
