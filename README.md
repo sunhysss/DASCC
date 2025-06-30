@@ -6,6 +6,6 @@ This repository provides a GPU-accelerated workflow for processing distributed a
 
 - **GPU-accelerated cross-correlation** based on [SeismicAmbientNoiseDAS](https://github.com/yanyangg/SeismicAmbientNoiseDAS)
 - **Bin-stack-based EGF enhancement** to improve temporal stability and signal-to-noise ratio
-- **Phase-weighted stacking (PWS)** for robust cross-correlation aggregation
+- **Phase-weighted stacking (PWS)** for robust cross-correlation stacking
 - Modular pipeline for DAS data pre-processing, slicing, and stacking
 - Scriptable and adaptable to large-scale continuous datasets
