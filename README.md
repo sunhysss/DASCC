@@ -9,8 +9,3 @@ This repository provides an end-to-end GPU-accelerated workflow for processing d
 - **Phase-weighted stacking (PWS)** for robust cross-correlation aggregation
 - Modular pipeline for DAS data pre-processing, slicing, and stacking
 - Scriptable and adaptable to large-scale continuous datasets
-
-## 🧪 Dependencies
-
-- Python 3.10
-- CPU or CUDA-compatible GPU
